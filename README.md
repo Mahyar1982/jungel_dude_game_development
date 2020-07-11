@@ -2,8 +2,13 @@
 ## Developed by unity
 
 
-## References
+## Original GDD
+https://github.com/Mahyar1982/game_development_unity_tutorial_project/blob/master/Game%20Design%20Document-assignment.docx
 
+## Teaser trailer
+https://www.youtube.com/watch?v=aqDVH7JekvM
+
+## References
 - Too Cube Forest, the free 2D platformer game tile set
 https://assetstore.unity.com/packages/2d/environments/too-cube-forest-the-free-2d-platformer-game-tile-set-117493
 - Nature pixel art base assets FREE
