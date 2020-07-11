@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Hidden
+    uniqueID: 372332231
+    locked: 0
+  - name: BG
+    uniqueID: 233969531
+    locked: 0
+  - name: World
+    uniqueID: 2780885443
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 763548827
+    locked: 0
+  - name: Pickups
+    uniqueID: 4018085553
+    locked: 0
+  - name: Enemies
+    uniqueID: 3204391311
+    locked: 0
+  - name: Player
+    uniqueID: 2287162967
+    locked: 0
