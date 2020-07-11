@@ -8,6 +8,12 @@ https://github.com/Mahyar1982/game_development_unity_tutorial_project/blob/maste
 ## Teaser trailer
 https://www.youtube.com/watch?v=aqDVH7JekvM
 
+## Playable copy of the game
+https://github.com/Mahyar1982/jungel_dude_game_development/blob/master/Jungle%20dude%20game.rar
+
+## Source code
+https://github.com/Mahyar1982/jungel_dude_game_development
+
 ## References
 - Too Cube Forest, the free 2D platformer game tile set
 https://assetstore.unity.com/packages/2d/environments/too-cube-forest-the-free-2d-platformer-game-tile-set-117493
