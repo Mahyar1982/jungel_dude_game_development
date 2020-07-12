@@ -9,6 +9,7 @@ https://github.com/Mahyar1982/game_development_unity_tutorial_project/blob/maste
 https://www.youtube.com/watch?v=aqDVH7JekvM
 
 ## Playable copy of the game
+https://simmer.io/@Mahyar/jungle-dude
 https://github.com/Mahyar1982/jungel_dude_game_development/blob/master/Jungle%20dude%20game.rar
 
 ## Source code
